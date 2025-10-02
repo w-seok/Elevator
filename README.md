@@ -1,3 +1,3 @@
 # Elevator
 
-![Elevator](elevator.mov)
+![Elevator](elevator.gif)
